@@ -1,16 +1,27 @@
 ## Hi there 👋
+<p align="center">
+  <a href="https://theauyapi-portfolio.netlify.app">
+    <img src="anime-boy" alt="Banner">
+  </a>
+</p>
 
-<!--
-**LeYapson/LeYapson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <a href="https://theauyapi-portfolio.netlify.app">LeYapson</a>!</h1>
+<p align="center">
+  <a href="https://theauyapi-portfolio.netlify.app">
+    <img src="https://theauyapi-portfolio.netlify.app/88x31.webp" alt="LeYapson">
+  </a>
+</p>
+<h3 align="center">Welcome to my GitHub profile :3</h3>
 
-Here are some ideas to get you started:
+<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong><a href="https://theauyapi-portfolio.netlify.app">Website</a></strong> |
+  <strong><a href="https://x.com/yatokishi">Twitter</a></strong> |
+  <strong><a href="www.linkedin.com/in/theau-yapi">LinkedIn</a></strong> |
+  <strong><a href="https://discord.gg/93fJgDmhec">Discord</a></strong> |
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeYapson"><img src="https://github-readme-stats.vercel.app/api?username=LeYapson&hide_border=true&show_icons=true" alt="LeYapson's github stats"></a>
+</p>
