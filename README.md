@@ -13,7 +13,7 @@
 <p align="center">
   <strong><a href="https://theauyapi-portfolio.netlify.app">Website</a></strong> |
   <strong><a href="https://x.com/yatokishi">Twitter</a></strong> |
-  <strong><a href="www.linkedin.com/in/theau-yapi">LinkedIn</a></strong> |
+  <strong><a href="http://linkedin.com/in/theau-yapi">LinkedIn</a></strong> |
   <strong><a href="https://discord.gg/93fJgDmhec">Discord</a></strong> |
 </p>
 
