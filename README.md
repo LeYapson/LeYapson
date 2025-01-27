@@ -1,14 +1,14 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://theauyapi-portfolio.netlify.app">
-    <img src="anime-boy" alt="Banner">
+    <img src="anime-boy.webp" alt="Banner">
   </a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://theauyapi-portfolio.netlify.app">LeYapson</a>!</h1>
 <p align="center">
   <a href="https://theauyapi-portfolio.netlify.app">
-    <img src="https://theauyapi-portfolio.netlify.app/88x31.webp" alt="LeYapson">
+    <img src="Yapson_Studio_white.png" alt="LeYapson">
   </a>
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
