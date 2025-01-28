@@ -7,6 +7,9 @@
 
 <h1 align="center">Hi, I'm <a href="https://theauyapi-portfolio.netlify.app">LeYapson</a>!</h1>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeYapson&label=Profile%20views&color=0e75b6&style=flat" alt="LeYapson" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeYapson" alt="LeYapson" /></a> </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
