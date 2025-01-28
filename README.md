@@ -18,5 +18,6 @@
 </p>
 
 <p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeYapson&show_icons=true&locale=en&layout=compact" alt="LeYapson" /></p>
   <a href="https://github.com/LeYapson"><img src="https://github-readme-stats.vercel.app/api?username=LeYapson&hide_border=true&show_icons=true" alt="LeYapson's github stats"></a>
 </p>
