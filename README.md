@@ -1,6 +1,6 @@
 # 🌸 Théau Yapi (UwU) 🌸
 
-![Bannière personnalisée](Yapson_Studio_white.png)
+![Bannière personnalisée](readmeBanner.jpg)
 
 ---
 <!-- FR -->
