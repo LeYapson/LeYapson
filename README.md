@@ -133,7 +133,7 @@ I'm **Théau**, a developer and streamer who loves:
 ---
 ## 📊 GitHub Stats
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=LeYapson&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LeYapson&layout=compact&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=LeYapson&hide=trend%2Cgrade%2Cweek%2Cavg)
+![Top Languages](https://ghstats.dev/api/langs?username=LeYapson)
 
 ---
