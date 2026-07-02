@@ -35,7 +35,7 @@ Je suis **Théau**, un développeur et streameur qui adore :
 |-------------------|-----------------------------------------------------------------------------|-----------------|
 | **Project MS**    | Jeu vidéo style JRPG japonais dans un style rétro.                          | 🛠️ En cours    |
 | **Portfolio UwU** | Refonte de mon portfolio pour le défi *Back 2 School* (catégorie *UwU*).   | 🎨 En cours     |
-| **The Stand**     | Création d'une association visant à organiser des rassemblements auto.     | 📅 En production|
+| **Aniquiz.fr**     | site de blindtest anime multijoueur en temps réel                         | 📅 En production|
 
 ---
 ## 🎮 Mes streams Twitch
@@ -44,7 +44,7 @@ Je suis **Théau**, un développeur et streameur qui adore :
 - **Coding** (développement en direct, tutoriels)
 - **Formats canapé** (discussions, invités, thèmes variés)
 
-🔗 **[Mon Twitch](https://www.titch.tv/yatokishi)**
+🔗 **[Mon Twitch](https://www.twitch.tv/yatokishi)**
 
 ---
 ## 🌈 Mes préférences
@@ -99,7 +99,7 @@ I'm **Théau**, a developer and streamer who loves:
 |-------------------|------------------------------------------------------------------------------|-----------------|
 | **Project MS**    | A retro-style JRPG video game.                                               | 🛠️ In progress  |
 | **Portfolio UwU** | Redesigning my portfolio for the *Back 2 School* challenge (category *UwU*).| 🎨 In progress   |
-| **The Stand**     | Creating an association to organize car meetups.                            | 📅 In production|
+| **Aniquiz.fr**     | multiplayer in real time anime blindtest website                           | 📅 In production|
 
 ---
 ## 🎮 My Twitch Streams
